@@ -1,0 +1,241 @@
+Every Single Blook in Blooket
+
+/*Note: Legendary+ sells for $250 instead of $200, and Chroma+ sells for $350 instead of $300.*/
+
+~Common Blooks~
+
+Chick - Common
+Chicken - Common
+Cow - Common
+Goat - Common
+Horse - Common
+Pig - Common
+Sheep - Common
+Duck - Common
+Dog - Common
+Cat - Common
+Rabbit - Common
+Goldfish - Common
+Hamster - Common
+Turtle - Common
+Kitten - Common
+Puppy - Common
+Bear - Common
+Moose - Common
+Fox - Common
+Raccoon - Common
+Squirrel - Common
+Owl - Common
+Hedgehog - Common
+Tiger - Common
+Orangutan - Common
+Cockatoo - Common
+Parrot - Common
+Anaconda - Common
+Jaguar - Common
+Macaw - Common
+Toucan - Common
+Panther - Common
+Capuchin - Common
+Snowy Owl - Common
+Polar Bear - Common
+Arctic Fox - Common
+Baby Penguin - Common
+Penguin - Common
+Arctic Hare - Common
+Seal - Common
+Walrus - Common
+
+~Medieval Box~
+
+Elf - Uncommon
+Witch - Uncommon
+Wizard - Uncommon
+Fairy - Uncommon
+Slime Monster - Uncommon
+Jester - Rare
+Dragon - Rare
+Queen - Rare
+Unicorn - Epic
+King - Legendary
+
+~Blizzard Box~
+
+Snowglobe - Uncommon
+Holiday Gift - Uncommon
+Hot Chocolate - Uncommon
+Holiday Wreath - Uncommon
+Gingerbread Man - Rare
+Gingerbread House - Rare
+Snowman - Epic
+Santa Claus - Legendary
+Frost Wreath - Chroma
+Tropical Globe - Chroma
+
+~Wonderland Box~
+
+Two of Spades - Uncommon
+Eat Me - Uncommon
+Drink Me - Uncommon
+Alice - Uncommon
+Queen of Hearts - Uncommon
+Dormouse - Rare
+White Rabbit - Rare
+Cheshire Cat - Rare
+Caterpillar - Epic
+Mad Hatter - Epic
+King of Hearts - Legendary
+
+~Breakfast Box~
+
+Toast - Uncommon
+Cereal - Uncommon
+Yogurt - Uncommon
+Breakfast Combo - Uncommon
+Orange Juice - Uncommon
+Milk - Uncommon
+Waffle - Rare
+Pancakes - Rare
+French Toast - Epic
+Pizza - Epic
+Sandwich - Epic
+
+/*Note: the Sandwich blook is not in the Breakfast Box.  We assume it was scrapped before release, but they decided to keep it in the game as an unobtainable blook.*/
+
+~Colors~
+
+Light Blue - Common
+Black - Common
+Red - Common
+Purple - Common
+Pink - Common
+Orange - Common
+Lime - Common
+Green - Common
+Teal - Common
+Tan - Common
+Maroon - Common
+Gray - Common
+Mint - Common
+Salmon - Common
+Burgandy - Common
+Baby Blue - Common
+Dust - Common
+Brown - Common
+Dull Blue - Common
+Yellow - Common
+Blue - Common
+
+~Spooky Box~
+
+Pumpkin - Uncommon
+Swamp Monster - Uncommon
+Frankenstien - Uncommon
+Vampire - Uncommon
+Zombie - Rare
+Mummy - Rare
+Werewolf - Epic
+Ghost - Legendary
+Haunted Pumpkin - Chroma
+Spooky Pumpkin - Chroma
+Spooky Mummy - Chroma+
+Spooky Ghost - Mystical
+
+/*Note: The Spooky Pumpkin, Spooky Mummy, and Spooky Ghost blooks were from the 'Contest of Candy' event.*/
+
+~Space Box~
+
+Earth - Uncommon
+Meteor - Uncommon
+Stars - Uncommon
+Alien - Uncommon
+Planet - Rare
+UFO - Rare
+Spaceship - Epic
+Astronaut - Legendary
+Red Astronaut - Chroma
+Blue Astronaut - Chroma
+Green Astronaut - Chroma
+Pink Astronaut - Chroma
+Orange Astronaut - Chroma
+Yellow Astronaut - Chroma
+Black Astronaut - Chroma
+Purple Astronaut - Chroma
+Brown Astronaut - Chroma
+Cyan Astronaut - Chroma
+Lime Astronaut - Chroma
+Tim the Alien - Mystical
+
+/*Note: the Cyan Astronaut, Lime Astronaut, and Tim the Alien blooks were from the Pokemon Are Cool (PAC) event.  The Purple Astronaut blook has never been distributed.*/
+
+~Bot Box~
+
+Lil Bot - Uncommon
+Lovely Bot - Uncommon
+Angry Bot - Uncommon
+Happy Bot - Uncommon
+Watson - Rare
+Buddy Bot - Rare
+Brainy Bot - Epic
+Mega Bot - Legendary
+
+~Aquatic Box~
+
+Old Boot - Uncommon
+Jellyfish - Uncommon
+Clownfish - Uncommon
+Frog - Uncommon
+Crab - Uncommon
+Pufferfish - Rare
+Blobfish - Rare
+Octopus - Rare
+Narwhal - Epic
+Baby Shark - Legendary
+Megalodon - Legendary+
+Rainbow Jellyfish - Chroma
+Blizzard Clownfish - Chroma
+Lovely Frog - Chroma
+Poison Dart Frog - Chroma
+Lemon Crab - Chroma
+Pirate Pufferfish - Chroma
+Donut Blobfish - Chroma
+Crimson Octopus - Chroma
+Rainbow Narwhal - Chroma
+
+/*Note: All the Chromas for the Aquatic Box are currently unobtainable, with the exception of the Lovely Frog, which can only be obtained on Valentine's Day for $500.*/
+
+~Tower Defense Blooks~
+
+Agent Owl - Chroma
+Master Elf - Chroma+
+Phantom King - Mystical
+
+/*Note: All Tower Defense Blooks were from the Potions of Pixalhia (PoP) event.*/
+
+~Safari Box~
+
+Panda - Uncommon
+Sloth - Uncommon
+Tenrec - Uncommon
+Flamingo - Uncommon
+Zebra - Uncommon
+Elephant - Rare
+Lemur - Rare
+Peacock - Rare
+Chameleon - Epic
+Lion - Legendary
+Rainbow Panda - Chroma
+White Peacock - Chroma
+Tiger Zebra - Chroma
+
+/*Note: The White Peacock and Tiger Zebra blooks are currently unobtainable.*/
+
+~Other Blooks~
+
+School of Fish - Mystical
+
+/*Note: The School of Fish blook is currentley unobtainable, and is thought to be an award for an upcoming event.*/
+
+
+
+Copyright ©2022 Blooket.  All rights reserved.
