@@ -165,8 +165,9 @@ Brown Astronaut - Chroma
 Cyan Astronaut - Chroma
 Lime Astronaut - Chroma
 Tim the Alien - Mystical
+Rainbow Astronaut - Mystical
 
-/*Note: the Cyan Astronaut, Lime Astronaut, and Tim the Alien blooks were from the Pokemon Are Cool (PAC) event.  The Purple Astronaut blook has never been distributed.*/
+/*Note: the Cyan Astronaut, Lime Astronaut, and Tim the Alien blooks were from the Pokemon Are Cool (PAC) event.  The Purple Astronaut blook has never been distributed.  Also, the Rainbow Astronaut is a new mystical, which is thought to be a prize in an upcoming event.*/
 
 ~Bot Box~
 
@@ -230,11 +231,11 @@ Tiger Zebra - Chroma
 
 /*Note: The White Peacock and Tiger Zebra blooks are currently unobtainable.*/
 
-~Other Blooks~
+~Forgotten Blooks~
 
 School of Fish - Mystical
 
-/*Note: The School of Fish blook is currentley unobtainable, and is thought to be an award for an upcoming event.*/
+/*Note: The School of Fish blook only existed in Blooket's code for about an hour.*/
 
 
 
