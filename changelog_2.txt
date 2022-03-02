@@ -10,3 +10,4 @@
 -Added Table of Contents
 -Removed Fun Facts Slide
 -Added full changelog
+-Added In-Game Blooks
