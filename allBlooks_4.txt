@@ -233,18 +233,18 @@ Tiger Zebra - Chroma
 
 ~In-Game Blooks~
 
-Agent Owl - Undefined
 Go Nuts Squirrel - Undefined
 Hungry Fish - Undefined
 Party Pig - Undefined
-Master Elf - Undefined
 Enchanted Elf - Undefined
 Fire Dragon - Undefined
 Wind Dragon - Undefined
 God of Lightning - Undefined
 Crazy Unicorn - Undefined
 uni-CORN - Undefined
-Phantom King - Undefined
+Red Slime Monster - Undefined
+Dark Slime Monster - Undefined
+Light Slime Monster - Undefined
 
 ~Forgotten Blooks~
 
