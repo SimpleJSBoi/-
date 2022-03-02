@@ -1,0 +1,12 @@
+-Added Update Notes Slide
+-Changed Font
+-Added Phantom King´s Sword
+-Added Link to BenStewart.io
+-Added Fun Facts
+-Added ‘Forgotten Blooks’ Page
+-Added School of Fish Blook
+-Added Rainbow Astronaut
+-Added animations for all Mysticals
+-Added Table of Contents
+-Removed Fun Facts Slide
+-Added full changelog
