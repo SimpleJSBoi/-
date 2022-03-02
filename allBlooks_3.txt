@@ -235,15 +235,15 @@ Tiger Zebra - Chroma
 
 Agent Owl - Undefined
 Go Nuts Squirrel - Undefined
-Angry Fish - Undefined
+Hungry Fish - Undefined
 Party Pig - Undefined
 Master Elf - Undefined
 Enchanted Elf - Undefined
-Fiery Dragon - Undefined
+Fire Dragon - Undefined
 Wind Dragon - Undefined
 God of Lightning - Undefined
 Crazy Unicorn - Undefined
-Uni-CORN - Undefined
+uni-CORN - Undefined
 Phantom King - Undefined
 
 ~Forgotten Blooks~
