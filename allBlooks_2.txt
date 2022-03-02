@@ -231,6 +231,21 @@ Tiger Zebra - Chroma
 
 /*Note: The White Peacock and Tiger Zebra blooks are currently unobtainable.*/
 
+~In-Game Blooks~
+
+Agent Owl - Undefined
+Go Nuts Squirrel - Undefined
+Angry Fish - Undefined
+Party Pig - Undefined
+Master Elf - Undefined
+Enchanted Elf - Undefined
+Fiery Dragon - Undefined
+Wind Dragon - Undefined
+God of Lightning - Undefined
+Crazy Unicorn - Undefined
+Uni-CORN - Undefined
+Phantom King - Undefined
+
 ~Forgotten Blooks~
 
 School of Fish - Mystical
